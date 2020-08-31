@@ -20,6 +20,7 @@
 - C#
 - .NET
 - Java
+- Full-Stack
 
 ## Ferramentas e Tecnologias
 
@@ -31,20 +32,19 @@
 - CentOS (8)
 - HTTP Service (Nginx, Apache)
 
-## Índice (opcional)
+## Certificados
 
-> Se o seu `README` tiver muitas informações, os cabeçalhos das seções podem ser bons.
+- Treinamento Full Stack - GLPI + FusionInventory (By Servicedesk Brasil)
+- Ubiquiti Enterprise Wirelles Admin UEWA (By Entelco Telecom)
+- Detecção de problemas avançados com Zabbix (By Udemy)
+- Servicedesk e Inventário com GLPI (By FAME Treinamentos)
+- Zabbix Avançado (By Udemy)
+- Linux - Conceitos e Principais Comandos (By Udemy)
+- Lógica de Programação (By Evolua Educação)
+- Aluno Monitor (By Microsoft)
 
-- [Instalação] (# instalação)
-- [Recursos] (# recursos)
-- [Contribuindo] (# contribuindo)
-- [Equipe] (# equipe)
-- [FAQ] (# faq)
-- [Suporte] (# suporte)
-- [Licença] (# licença)
 
 
----
 
 ## Exemplo (opcional)
 
