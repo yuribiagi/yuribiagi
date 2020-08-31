@@ -51,7 +51,7 @@
 
 ## Projetos Desenvolvidos
 
--- **Implantação de Sistema para Monitoração de Dispositivos em Rede (ZABBIX)** --
+- **Implantação de Sistema para Monitoração de Dispositivos em Rede (ZABBIX)**
 > Descrição do Projeto: Instalação e implementação do Zabbix em todo o chão de fábrica e áreas administrativas.
 
 > *Tecnologias Utilizadas no FrontEnd: Zabbix 4.0 LTS;*
@@ -59,12 +59,14 @@
 > *Tecnologias Utilizadas no BackEnd: Ubuntu Server, MySQL, Apache, Zabbix 4.0 LTS;*
 
 
--- **Implantação de Sistema para Controle de Ativos de Informática e Gerenciamento de Chamados (GLPI)** --
+
+- **Implantação de Sistema para Controle de Ativos de Informática e Gerenciamento de Chamados (GLPI)**
 > Descrição do Projeto: Instalação e implementação em todo o chão de fábrica e áreas administrativas.
 
 > *Tecnologias Utilizadas no FrontEnd: GLPI 9;*
 
 > *Tecnologias Utilizadas no BackEnd: Ubuntu Server, Percona Server, Apache, GLPI 9;*
+
 
 
 - **Desenvolvimento de Sistema para Baixa de Estoque**
@@ -75,12 +77,14 @@
 > *Tecnologias Utilizadas no BackEnd: Ubuntu Server, Nginx, MySQL, Support to Python, Support to SendMail PHP;*
 
 
+
 - **Desenvolvimento de Sistema para Abertuda de Chamados**
 > Descrição do Projeto: Interface web para realização de abertura de chamados técnicos de vários lugares e para vários destinatários.
 
 > *Tecnologias Utilizadas no FrontEnd: PHP, HTM5, MYSQLI, SQL, ODBC, CSS, JS;*
 
 > *Tecnologias Utilizadas no BackEnd: Ubuntu Server, Nginx, MySQL, Integração WS 2012 R2 em SQL Server;*
+
 
 
 - **Desenvolvimento de Sistema para Preenchimento de Checklist**
@@ -91,10 +95,12 @@
 > *Tecnologias Utilizadas no BackEnd: Ubuntu Server, Nginx, MySQL;*
 
 
+
 - **Desenvolvimento de Proxy de Acesso HTTPS**
 > Descrição do Projeto: Surgiu da necessidade de balanceamento de carga de acesso externo e interno a serviços Web.
 
 > *Tecnologias Utilizadas no BackEnd: Ubuntu Server, Nginx, Nginx Proxy Reverso, Nginx Round-Robin, Let's Encrypt, SELinux, UFW, Iptables;*
+
 
 
 - **Desenolvimento de Sistema para Envio de E-mail**
