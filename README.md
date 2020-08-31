@@ -51,6 +51,6 @@
 
 ## Contato
 
-Entre em contato comigo em um dos seguintes lugares!
+Entre em contato comigo!
 
 - LinkedIn em <a href="http://https://www.linkedin.com/in/yuri-biagi/" target="_blank"> `yuri-biagi` </a>
