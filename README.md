@@ -2,8 +2,6 @@
 
 > Repositório de apresentação profissional
 
----
-
 ## Conhecimentos do Setor
 
 - Manutenção de Computadores
