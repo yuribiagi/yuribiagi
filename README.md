@@ -51,7 +51,7 @@
 
 ## Projetos Desenvolvidos
 
-- **Implantação de Sistema para Monitoração de Dispositivos em Rede (ZABBIX)**
+-- **Implantação de Sistema para Monitoração de Dispositivos em Rede (ZABBIX)** --
 > Descrição do Projeto: Instalação e implementação do Zabbix em todo o chão de fábrica e áreas administrativas.
 
 > *Tecnologias Utilizadas no FrontEnd: Zabbix 4.0 LTS;*
@@ -59,7 +59,7 @@
 > *Tecnologias Utilizadas no BackEnd: Ubuntu Server, MySQL, Apache, Zabbix 4.0 LTS;*
 
 
--- **Implantação de Sistema para Controle de Ativos de Informática e Gerenciamento de Chamados (GLPI)**
+-- **Implantação de Sistema para Controle de Ativos de Informática e Gerenciamento de Chamados (GLPI)** --
 > Descrição do Projeto: Instalação e implementação em todo o chão de fábrica e áreas administrativas.
 
 > *Tecnologias Utilizadas no FrontEnd: GLPI 9;*
