@@ -89,6 +89,7 @@
 
 # Preparação de Ambientes Virtuais
 
+**Virtual Machines:**
 - Criação de Máquinas Virtuais Windows (7 Pro, 10 Pro, Server 2008, Server 2012, Server 2016 e afins);
 - Criação de Máquinas Virtuais Linux (Ubuntu Server, CentOS, Red Hat e afins);
 
