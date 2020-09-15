@@ -19,8 +19,7 @@
 - Python;
 - C#;
 - .NET;
-- Java;
-- Full-Stack.
+- Java.
 
 ## Ferramentas e Tecnologias
 
@@ -103,8 +102,7 @@
 **Ambiente Linux:**
 - Configuração de Servido HTTPS;
 - Configuração de Banco de Dados MySQL;
-- Configuração para Envio de Coletas SNMP;
-- 
+- Configuração para Envio de Coletas SNMP.
 
 ---
 
@@ -112,4 +110,5 @@
 
 Entre em contato comigo!
 
-- LinkedIn em <a href="http://https://www.linkedin.com/in/yuri-biagi/" target="_blank"> `yuri-biagi` </a>
+- LinkedIn em <a href="https://www.linkedin.com/in/yuri-biagi/" target="_blank"> `yuri-biagi` </a>
+- Whatsapp em <a href="https://api.whatsapp.com/send?phone=5519998658625 target="_blank" `+5519998658625` </a>
