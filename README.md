@@ -111,4 +111,4 @@
 Entre em contato comigo!
 
 - LinkedIn em <a href="https://www.linkedin.com/in/yuri-biagi/" target="_blank"> `yuri-biagi` </a>
-- Whatsapp em <a href="https://api.whatsapp.com/send?phone=5519998658625 target="_blank" `+5519998658625` </a>
+- Whatsapp em <a href="https://api.whatsapp.com/send?phone=5519998658625" target="_blank"> `+5519998658625` </a>
