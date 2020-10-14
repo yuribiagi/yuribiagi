@@ -1,6 +1,6 @@
 # Yuri Biagi
 
-> Apresentação profissional
+> Apresentação Profissional
 
 ## Conhecimentos do Setor
 
