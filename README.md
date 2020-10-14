@@ -1,6 +1,6 @@
 # Yuri Biagi
 
-> Repositório de apresentação profissional
+> Apresentação profissional
 
 ## Conhecimentos do Setor
 
