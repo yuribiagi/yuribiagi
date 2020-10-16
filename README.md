@@ -19,7 +19,7 @@
 - Python;
 - C#;
 - .NET;
-- Java.
+- JavaScript.
 
 ## Ferramentas e Tecnologias
 
