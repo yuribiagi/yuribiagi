@@ -58,31 +58,32 @@
 ## **Implantação de Sistema para Controle de Ativos de Informática e Gerenciamento de Chamados (GLPI)**
 - Descrição do Projeto: Instalação e implementação em todo o chão de fábrica e áreas administrativas.
 - *Tecnologias Utilizadas no FrontEnd: GLPI 9;*
-- *Tecnologias Utilizadas no BackEnd: Ubuntu Server, Percona Server, Apache, GLPI 9;*
+- *Tecnologias Utilizadas no BackEnd: CentOS, Percona Server, Apache, GLPI 9;*
 
 ## **Desenvolvimento de Sistema para Baixa de Estoque**
 - Descrição do Projeto: Interface web para leitura de etiquetas, que realiza baixa, conferência e exclução de itens.
 - *Tecnologias Utilizadas no FrontEnd: PHP, HTM5, MYSQLI, SQL, ODBC, CSS, JS, JQUERY, MailerPHP, Python;*
-- *Tecnologias Utilizadas no BackEnd: Ubuntu Server, Nginx, MySQL, Support to Python, Support to SendMail PHP;*
+- *Tecnologias Utilizadas no BackEnd: Ubuntu Server, Nginx, MySQL, MySQLi, Support to Python, Support to SendMail PHP;*
 
 ## **Desenvolvimento de Sistema para Abertuda de Chamados**
 - Descrição do Projeto: Interface web para realização de abertura de chamados técnicos de vários lugares e para vários destinatários.
 - *Tecnologias Utilizadas no FrontEnd: PHP, HTM5, MYSQLI, SQL, ODBC, CSS, JS;*
-- *Tecnologias Utilizadas no BackEnd: Ubuntu Server, Nginx, MySQL, Integração WS 2012 R2 em SQL Server;*
+- *Tecnologias Utilizadas no BackEnd: Ubuntu Server, Nginx, MySQL, MySQLi, Integração Drive ODBC em SQL Server;*
 
 ## **Desenvolvimento de Sistema para Preenchimento de Checklist**
 - Descrição do Projeto: Modernização de preenchimento de checklist de empilhadeiras e conferência de não conformidade em EPC.
 - *Tecnologias Utilizadas no FrontEnd: PHP, HTM5, MYSQLI, SQL, CSS, JS;*
-- *Tecnologias Utilizadas no BackEnd: Ubuntu Server, Nginx, MySQL;*
+- *Tecnologias Utilizadas no BackEnd: Ubuntu Server, Nginx, MySQL, MySQLi;*
 
 ## **Desenvolvimento de Proxy de Acesso HTTPS**
 - Descrição do Projeto: Surgiu da necessidade de balanceamento de carga de acesso externo e interno a serviços Web.
+- *Tecnologias Utilizadas no FrontEnd: NOT HAVE;*
 - *Tecnologias Utilizadas no BackEnd: Ubuntu Server, Nginx, Nginx Proxy Reverso, Nginx Round-Robin, Let's Encrypt, SELinux, UFW, Iptables;*
 
 ## **Desenolvimento de Sistema para Envio de E-mail**
 - Descrição do Projeto: Surgiu da necessidade de enviar relatórios diários automatizados aos gestores e gerentes de vários setores.
 - *Tecnologias Utilizadas no FrontEnd: PHP, HTM5, MYSQLI, SQL, ODBC, CSS, JS, JQUERY, MailerPHP, Python;*
-- *Tecnologias Utilizadas no BackEnd: Ubuntu Server, Nginx, MySQL, Support to Python, Support to SendMail PHP, Integração WS 2012 R2 em SQL Server, Zabbix Agent;*
+- *Tecnologias Utilizadas no BackEnd: Ubuntu Server, Nginx, MySQL, Support to Python, Support to SendMail PHP, Integração Drive ODBC em SQL Server, Zabbix Agent;*
 
 ---
 
@@ -90,7 +91,7 @@
 
 **Virtual Machines:**
 - Criação de Máquinas Virtuais Windows (7 Pro, 10 Pro, Server 2008, Server 2012, Server 2016 e afins);
-- Criação de Máquinas Virtuais Linux (Ubuntu Server, CentOS, Red Hat e afins);
+- Criação de Máquinas Virtuais Linux (Ubuntu Server, CentOS e afins);
 
 **Ambientes Windows:**
 - Configuração de WSUS em Rede;
@@ -100,8 +101,12 @@
 - Configuração de Servidor IIS;
 
 **Ambiente Linux:**
-- Configuração de Servido HTTPS;
+- Configuração de Servidor HTTP e HTTPS;
+- Configuração de Certificado HTTPS Let's Encrypt e Certbot;
+- Configuração de Aplicações Web;
+- Configuração de Suporte a Python, PHP-FPM, Node.js;
 - Configuração de Banco de Dados MySQL;
+- Configuração de Acessos Mysqli e ODBC;
 - Configuração para Envio de Coletas SNMP.
 
 ---
