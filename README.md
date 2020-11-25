@@ -33,6 +33,12 @@
 
 ## Certificados
 
+- PHP: Manipulando coleções e Arrays (By Alura);
+- Avançando com Orientação a Objetos com PHP: Herança, Polimorfismo e Interfaces (By Alura);
+- Orientação a Objetos com PHP: Classes, métodos e atributos (By Alura);
+- Avançando com PHP: Arrays, Strings, Função e Web (By Alura);
+- Introdução ao PHP: Primeiros passos com a linguagem (By Alura);
+- Raspberry Pi: Da instalação ao Media Center (By Alura);
 - Treinamento Full Stack - GLPI + FusionInventory (By Servicedesk Brasil);
 - Ubiquiti Enterprise Wirelles Admin UEWA (By Entelco Telecom);
 - Detecção de problemas avançados com Zabbix (By Udemy);
