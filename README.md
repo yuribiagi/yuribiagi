@@ -33,6 +33,7 @@
 
 ## Certificados
 
+- PHP Exceptions: Tratamento de erros (By Alura);
 - PHP: Manipulando coleções e Arrays (By Alura);
 - Avançando com Orientação a Objetos com PHP: Herança, Polimorfismo e Interfaces (By Alura);
 - Orientação a Objetos com PHP: Classes, métodos e atributos (By Alura);
