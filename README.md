@@ -51,30 +51,30 @@
 
 ## Estudo Acadêmico
  
-> - Ciência da Computação - UNIESI (2019 à 2023).
+- Ciência da Computação - UNIESI (2019 à 2023).
 
 # Preparação de Ambientes Virtuais
 
 **Virtual Machines:**
-- Criação de Máquinas Virtuais Windows (7 Pro, 10 Pro, Server 2008, Server 2012, Server 2016 e afins);
-- Criação de Máquinas Virtuais Linux (Ubuntu Server, CentOS e afins);
+> - Criação de Máquinas Virtuais Windows (7 Pro, 10 Pro, Server 2008, Server 2012, Server 2016 e afins);
+> - Criação de Máquinas Virtuais Linux (Ubuntu Server, CentOS e afins);
 
 **Ambientes Windows:**
-- Configuração de Computadores em Rede;
-- Configuração de WSUS em Rede;
-- Configuração de Active Directory em Rede;
-- Configuração de File Server em Rede;
-- Configuração de Servidor de Impressão em Rede;
-- Configuração de Servidor IIS;
+> - Configuração de Computadores em Rede;
+> - Configuração de WSUS em Rede;
+> - Configuração de Active Directory em Rede;
+> - Configuração de File Server em Rede;
+> - Configuração de Servidor de Impressão em Rede;
+> - Configuração de Servidor IIS;
 
 **Ambiente Linux:**
-- Configuração de Servidor HTTP e HTTPS;
-- Configuração de Certificado HTTPS Let's Encrypt e Certbot;
-- Configuração de Aplicações Web;
-- Configuração de Suporte a Python, PHP-FPM, Node.js;
-- Configuração de Banco de Dados MySQL;
-- Configuração de Acessos Mysqli e ODBC;
-- Configuração para Envio de Coletas SNMP.
+> - Configuração de Servidor HTTP e HTTPS;
+> - Configuração de Certificado HTTPS Let's Encrypt e Certbot;
+> - Configuração de Aplicações Web;
+> - Configuração de Suporte a Python, PHP-FPM, Node.js;
+> - Configuração de Banco de Dados MySQL;
+> - Configuração de Acessos Mysqli e ODBC;
+> - Configuração para Envio de Coletas SNMP.
 
 ---
 
