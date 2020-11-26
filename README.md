@@ -50,10 +50,8 @@
 - Aluno Monitor (By Microsoft).
 
 ## Estudo Acadêmico
-
-- Ciência da Computação - UNIESI (2019 à 2023).
-
----
+ 
+> - Ciência da Computação - UNIESI (2019 à 2023).
 
 # Preparação de Ambientes Virtuais
 
