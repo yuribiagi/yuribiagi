@@ -58,7 +58,7 @@
 ## Projetos Desenvolvidos
 
 ## **Implantação de Sistema para Monitoração de Dispositivos em Rede (ZABBIX)**
-- Descrição do Projeto: Instalação e implementação do Zabbix em todo o chão de fábrica e áreas administrativas.
+- Descrição do Projeto: Instalação e implementação do Zabbix em todo o parque de T.I. .
 - *Tecnologias Utilizadas no FrontEnd: Zabbix 4.0 LTS;*
 - *Tecnologias Utilizadas no BackEnd: Ubuntu Server, MySQL, Apache, Zabbix 4.0 LTS;*
 
