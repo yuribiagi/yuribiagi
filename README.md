@@ -2,8 +2,14 @@
 
 > Apresentação Profissional
 
+## Áreas de Atuação
+
+> Suporte Técnico e Infraestrutura de TI;
+> Desenvolvimento Full Stack.
+
 ## Conhecimentos do Setor
 
+- Desenvolvedor Web Full Stack;
 - Manutenção de Computadores;
 - Suporte Técnico;
 - Redes de Computadores;
