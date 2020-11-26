@@ -5,7 +5,7 @@
 ## Áreas de Atuação
 
 > - Suporte Técnico e Infraestrutura de TI;
-> - Desenvolvimento Full Stack.
+> - Desenvolvimento Web Full Stack.
 
 ## Conhecimentos do Setor
 
