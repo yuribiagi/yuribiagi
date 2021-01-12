@@ -25,7 +25,8 @@
 - Python;
 - C#;
 - .NET;
-- JavaScript.
+- JavaScript;
+- PowerShell.
 
 ## Ferramentas e Tecnologias
 
