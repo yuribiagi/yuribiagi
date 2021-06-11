@@ -40,6 +40,15 @@
 
 ## Certificados
 
+- Segurança de redes: Conheça as vulnerabilidades de servidores e clientes (By Alura);
+- Redes parte 5: Wi-FI (By Alura);
+- Redes parte 4: Configuração de protocolos de roteamento e IPv6 (By Alura);
+- Redes parte 3: Defina as listas de controle e políticas de acesso de usuários (By Alura);
+- Redes parte 2: Montando um projeto do cliente até o provedor de serviços (By Alura);
+- DNS: Entenda a resolução de nomes na internet (By Alura);
+- PowerShell parte 1: Começando com a linguagem de scripting moderna (By Alura);
+- Redes: Introdução, Conceitos e Prática (By Alura);
+- Windows: Introdução ao Prompt (By Alura);
 - PHP Exceptions: Tratamento de erros (By Alura);
 - PHP: Manipulando coleções e Arrays (By Alura);
 - Avançando com Orientação a Objetos com PHP: Herança, Polimorfismo e Interfaces (By Alura);
@@ -58,7 +67,7 @@
 
 ## Estudo Acadêmico
  
-- ~~Ciência da Computação - UNIESI (2019 à 2023).~~
+- ~~Ciência da Computação - UNIESI (2019 à 2023).~~ (Trancado 06/2020 - 3º Semestre Concluido)
 
 # Preparação de Ambientes Virtuais
 
