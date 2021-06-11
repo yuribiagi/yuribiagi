@@ -97,29 +97,34 @@
 - *Tecnologias Utilizadas no FrontEnd: GLPI 9;*
 - *Tecnologias Utilizadas no BackEnd: CentOS, Percona Server, Apache, GLPI 9;*
 
-## **Desenvolvimento de Sistema para Baixa de Estoque**
+## **Desenvolvimento de Sistema Web para Baixa de Estoque**
 - Descrição do Projeto: Interface web para leitura de etiquetas, que realiza baixa, conferência e exclução de itens.
-- *Tecnologias Utilizadas no FrontEnd: PHP, HTM5, MYSQLI, SQL, ODBC, CSS, JS, JQUERY, MailerPHP, Python;*
+- *Tecnologias Utilizadas no FrontEnd: PHP, HTM5, SQL, ODBC, CSS, JS, JQUERY, MailerPHP, Python;*
 - *Tecnologias Utilizadas no BackEnd: Ubuntu Server, Nginx, MySQL, MySQLi, Support to Python, Support to SendMail PHP;*
 
-## **Desenvolvimento de Sistema para Abertuda de Chamados**
+## **Desenvolvimento de Sistema Web para Abertuda de Chamados**
 - Descrição do Projeto: Interface web para realização de abertura de chamados técnicos de vários lugares e para vários destinatários.
-- *Tecnologias Utilizadas no FrontEnd: PHP, HTM5, MYSQLI, SQL, ODBC, CSS, JS;*
+- *Tecnologias Utilizadas no FrontEnd: PHP, HTM5, SQL, ODBC, CSS, JS;*
 - *Tecnologias Utilizadas no BackEnd: Ubuntu Server, Nginx, MySQL, MySQLi, Integração Drive ODBC em SQL Server;*
 
-## **Desenvolvimento de Sistema para Preenchimento de Checklist**
+## **Desenvolvimento de Sistema Web para Preenchimento de Checklist**
 - Descrição do Projeto: Modernização de preenchimento de checklist de empilhadeiras e conferência de não conformidade em EPC.
-- *Tecnologias Utilizadas no FrontEnd: PHP, HTM5, MYSQLI, SQL, CSS, JS;*
+- *Tecnologias Utilizadas no FrontEnd: PHP, HTM5, ODBC, SQL, CSS, JS;*
 - *Tecnologias Utilizadas no BackEnd: Ubuntu Server, Nginx, MySQL, MySQLi;*
 
 ## **Desenvolvimento de Proxy de Acesso HTTPS**
 - Descrição do Projeto: Surgiu da necessidade de balanceamento de carga de acesso externo e interno a serviços Web.
 - *Tecnologias Utilizadas no FrontEnd: NOT HAVE;*
-- *Tecnologias Utilizadas no BackEnd: Ubuntu Server, Nginx, Nginx Proxy Reverso, Nginx Round-Robin, Let's Encrypt, SELinux, UFW, Iptables;*
+- *Tecnologias Utilizadas no BackEnd: Ubuntu Server, Nginx, Nginx Proxy Reverso, Let's Encrypt, SELinux, UFW, Iptables;*
 
-## **Desenolvimento de Sistema para Envio de E-mail**
+## **Desenolvimento de Sistema Web para Envio de E-mail**
 - Descrição do Projeto: Surgiu da necessidade de enviar relatórios diários automatizados aos gestores e gerentes de vários setores.
-- *Tecnologias Utilizadas no FrontEnd: PHP, HTM5, MYSQLI, SQL, ODBC, CSS, JS, JQUERY, MailerPHP, Python;*
+- *Tecnologias Utilizadas no FrontEnd: PHP, HTM5, SQL, ODBC, CSS, JS, JQUERY, MailerPHP;*
+- *Tecnologias Utilizadas no BackEnd: Ubuntu Server, Nginx, MySQL, Support to Python, Support to SendMail PHP, Integração Drive ODBC em SQL Server, Zabbix Agent;*
+
+## **Desenolvimento de Sistema Web para Cadastro e Envio de E-mails para Colaboradores Aniversariantes**
+- Descrição do Projeto: Após pesquisa, se tornou insteressante fortalecer o laço Empresa-Colaborador criando um processo de envio de e-mail automatizado parabenizando pela data especial de aniversário.
+- *Tecnologias Utilizadas no FrontEnd: PHP, HTM5, CSS, SQL, ODBC,  MailerPHP;*
 - *Tecnologias Utilizadas no BackEnd: Ubuntu Server, Nginx, MySQL, Support to Python, Support to SendMail PHP, Integração Drive ODBC em SQL Server, Zabbix Agent;*
 
 ---
