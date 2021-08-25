@@ -67,7 +67,8 @@
 
 ## Estudo Acadêmico
  
-- ~~Ciência da Computação - UNIESI (2019 à 2023).~~ (Trancado 06/2020 - 3º Semestre Concluido)
+- ~~Ciência da Computação - UNIESI (2019 à 2023).~~ (Transferência para UNIFAJ)
+- Ciência da Computação - UNIFAJ (2021 à 2024). (Cursando 4º Semestre)
 
 # Preparação de Ambientes Virtuais
 
