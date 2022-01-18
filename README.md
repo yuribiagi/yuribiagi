@@ -40,6 +40,8 @@
 
 ## Certificados
 
+- Comandos DML: Manipulação de dados com MySQL (By Alura);
+- Consultas SQL: Avançando no SQL com MySQL (By Alura);
 - LGPD: Conhecendo e entendendo seus impactos (By Alura);
 - Cybersecurity Essentials (By Cisco);
 - Vagrant: Gerenciando máquinas virtuais (By Alura);
