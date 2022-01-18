@@ -40,6 +40,20 @@
 
 ## Certificados
 
+- LGPD: Conhecendo e entendendo seus impactos (By Alura);
+- Cybersecurity Essentials
+- Vagrant: Gerenciando máquinas virtuais (By Alura);
+- Introdução ao SQL com MySQL: Manipule e consulte dados (By Alura);
+- NR-35 - Segurança nas Atividades com Trabalho em Altura (By SENAI)
+- Segurança de redes: Protegendo dados com VPNs (By Alura);
+- Formação Administrador de Redes (By Alura);
+- Grafana e Telegraf: Monitoramento em tempo real (By Alura);
+- Instrumental Óptico para Provedores de Internet (By NIC.br);
+- Linux II: Programas, processos e pacotes (By Alura);
+- Linux I: Conhecendo e utilizando o terminal (By Alura);
+- NGINX: Servidor Web, Proxy Reverso e API Gateway (By Alura);
+- O passo a passo para Planejar e Expandir uma rede FTTH de Alto desempenho (By NIC.br);
+- PHP Composer: Dependências, Autoload e Publicação (By Alura);
 - Segurança de redes: Conheça as vulnerabilidades de servidores e clientes (By Alura);
 - Redes parte 5: Wi-FI (By Alura);
 - Redes parte 4: Configuração de protocolos de roteamento e IPv6 (By Alura);
@@ -68,7 +82,7 @@
 ## Estudo Acadêmico
  
 - ~~Ciência da Computação - UNIESI (2019 à 2023).~~ (Transferência para UNIFAJ)
-- Ciência da Computação - UNIFAJ (2021 à 2024). (Cursando 4º Semestre)
+- Ciência da Computação - UNIFAJ (2021 à 2024). (Cursando 5º Semestre)
 
 # Preparação de Ambientes Virtuais
 
