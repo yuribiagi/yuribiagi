@@ -41,7 +41,7 @@
 ## Certificados
 
 - LGPD: Conhecendo e entendendo seus impactos (By Alura);
-- Cybersecurity Essentials
+- Cybersecurity Essentials (By Cisco);
 - Vagrant: Gerenciando máquinas virtuais (By Alura);
 - Introdução ao SQL com MySQL: Manipule e consulte dados (By Alura);
 - NR-35 - Segurança nas Atividades com Trabalho em Altura (By SENAI)
